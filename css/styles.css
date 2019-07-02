@@ -1,0 +1,28 @@
+body {
+  background-color: #87c0cd;
+}
+
+hr {
+  border-color: #f3f9fb;
+  border-style: inset none none;
+  height: 1px;
+  width: 100%
+}
+
+img {
+  height: 200px;
+}
+
+h1{
+  color: #113f67;
+}
+h3{
+  color: #226597;
+}
+p{
+  color: #226597;
+}
+table
+{
+ color:  #226597;
+}
